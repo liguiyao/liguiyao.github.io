@@ -13,7 +13,7 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 22,
+    "uniqCompNum": 40,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -74,7 +74,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://github.com/liguiyao?tab=repositories\" target=\"_blank\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://github.com/liguiyao?tab=repositories\" target=\"_blank\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://github.com/liguiyao?tab=repositories\" target=\"_blank\">Contact</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -126,7 +126,7 @@
           },
           "title": "Herbal Expert",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mail.google.com/mail/u/0/#inbox\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Login</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://accounts.google.com/signup/v2/webcreateaccount?service=mail&amp;continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fe-11-157602925bd35a125fa03b0d5cf7b4d5-1c586db497730abf043dfbf0a65b36ef603eb679&amp;flowName=GlifWebSignIn&amp;flowEntry=SignUp\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Login</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register</a> ",
           "alias": "purity/components",
           "_tags": [
             "主题"
@@ -360,14 +360,14 @@
           "caption1": "<br><br>Aromatic, can be used as a spice or mosquito repellent.The flowers and stems of the calamus are rich in flavor and have the effect of sputum and scattered wind. They can be plague and strengthen the body.<br><br>",
           "title2": "Hawthorn\n<div><br></div>",
           "caption2": "Hawthorn can significantly reduce serum cholesterol and triglycerides, effectively prevent and treat atherosclerosis. Hawthorn can also enhance myocardial contractility, reduce myocardial oxygen consumption, etc.&nbsp;<br>",
-          "title3": "Grass coral\r<div><br></div>",
+          "title3": "Grass coral\n<div><br></div>",
           "caption3": "Detoxification and heat removal, anti-inflammatory and cough, so that the throat can reduce swelling and pain. It can relieve and shrink some of the masses, help to prolong life and improve some conscious symptoms.<br><br>",
           "title4": "St. John's Grass\n<div><br></div>",
           "caption4": "It has a good effect on skin wounds, burns, cuts, sunburns, mosquito bites and bruises. Treatment of oily scalp, dandruff, acne, eczema, varicose veins.<br><br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Buy</a>  <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Like</a> ",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Buy</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Like</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Buy</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Like</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Buy</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Like</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://item.taobao.com/item.htm?spm=a230r.1.14.20.3bb2b987iviEwl&amp;id=571188835186&amp;ns=1&amp;abbucket=16#detail\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Buy</a>  <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Like</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.amazon.com/Hawthorn-Berry-Tea-10bags-150g/dp/B00BBXR3FK/ref=sr_1_10_a_it?ie=UTF8&amp;qid=1546438458&amp;sr=8-10&amp;keywords=Hawthorn&amp;th=1\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Buy</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Like</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://detail.tmall.com/item.htm?spm=a230r.1.14.49.280114b30S3lMI&amp;id=576291988779&amp;ns=1&amp;abbucket=16\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Buy</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Like</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://detail.tmall.hk/hk/item.htm?spm=a230r.1.14.8.685773f2gD1vY8&amp;id=526251706668&amp;cm_id=140105335569ed55e27b&amp;abbucket=16\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Buy</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Like</a>",
           "alias": "purity/components",
           "_tags": [
             "主题"
@@ -469,10 +469,10 @@
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.<br>",
           "title4": "<br>Nettle",
           "caption4": "Since the 1970s, traditional Chinese medicine anesthetics based on mandala have been replayed. This anesthetic method has attracted the attention of foreign medical experts.&nbsp;<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Buy</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Like</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Buy</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Like</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Buy</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Like</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Buy</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Like</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.amazon.com/Organic-Goji-Berries-Resealable-Organics/dp/B075JZRRYG/ref=sr_1_1_a_it?ie=UTF8&amp;qid=1546438620&amp;sr=8-1-spons&amp;keywords=Wolfberry&amp;psc=1\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Buy</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Like</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://detail.tmall.com/item.htm?id=40389930861&amp;ali_refid=a3_430583_1006:1103205044:N:%E7%81%B5%E8%8A%9D:6871786281409fd4b266f129c43a575a&amp;ali_trackid=1_6871786281409fd4b266f129c43a575a&amp;spm=a230r.1.14.1\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Buy</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Like</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://detail.tmall.com/item.htm?spm=a230r.1.14.89.7dcc5a66DpNtdf&amp;id=582706380278&amp;ns=1&amp;abbucket=16\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Buy</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Like</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://item.taobao.com/item.htm?spm=a230r.1.14.36.64665a07kq2mcW&amp;id=573567955513&amp;ns=1&amp;abbucket=16#detail\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Buy</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Like</a>",
           "alias": "purity/components",
           "_tags": [
             "主题"
@@ -593,7 +593,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://github.com/liguiyao?tab=repositories\" target=\"_blank\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://github.com/liguiyao?tab=repositories\" target=\"_blank\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://github.com/liguiyao?tab=repositories\" target=\"_blank\">Contact</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -621,7 +621,57 @@
               "color": "#000"
             }
           },
-          "_anchor": "menu-c"
+          "_anchor": "menu-v"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "User Registration",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-success mbr-iconfont mbr-iconfont-btn\"></span>registered</a>",
+          "form": {
+            "action": "676638466@qq.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Write down the herbs of interest"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-y"
         },
         {
           "_params": {
@@ -656,7 +706,7 @@
             "主题"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-d"
+          "_anchor": "contacts1-w"
         },
         {
           "_params": {
@@ -677,7 +727,194 @@
             "主题"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-e"
+          "_anchor": "footer1-x"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Page 2",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://github.com/liguiyao?tab=repositories\" target=\"_blank\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://github.com/liguiyao?tab=repositories\" target=\"_blank\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://github.com/liguiyao?tab=repositories\" target=\"_blank\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Herbal Expert</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-z"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Herbal Expert",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Already have account ?</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-13"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1122.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-success mbr-iconfont mbr-iconfont-btn\"></span>Login</a>",
+          "text1": "",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "676638466@qq.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-12"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>XX-XXX-XXXX<br>UUM-06010",
+          "text2": "<strong>Contacts</strong><br>\nEmail: 676638466@qq.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<strong><a href=\"https://github.com/griddb/griddb_nosql?gclid=Cj0KCQiA37HhBRC8ARIsAPWoO0w4FKevt3t6wMpoOhLUOrExew23h3G5QOSY7UEWvpfb8Jq8kisZbYYaAj_nEALw_wcB\" target=\"_blank\">Links</a></strong><ul><li><a href=\"https://github.com/griddb/griddb_nosql?gclid=Cj0KCQiA37HhBRC8ARIsAPWoO0w4FKevt3t6wMpoOhLUOrExew23h3G5QOSY7UEWvpfb8Jq8kisZbYYaAj_nEALw_wcB\" target=\"_blank\">Website builder</a></li><li><a href=\"https://github.com/griddb/griddb_nosql?gclid=Cj0KCQiA37HhBRC8ARIsAPWoO0w4FKevt3t6wMpoOhLUOrExew23h3G5QOSY7UEWvpfb8Jq8kisZbYYaAj_nEALw_wcB\" target=\"_blank\">Join us</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-10"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Company Name. Herbal Expert",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-11"
         }
       ]
     }
